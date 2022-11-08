@@ -26,8 +26,7 @@ If the issue has not been reported before, please open a new issue in the follow
 
 ##### Resources
 
-    Photos and links to more details on the issue that would help. 
-    If there is a script related to the error, please add the GitHub link.```
+    Photos and links related to the error.
 
 ### Submit bug report 
 
