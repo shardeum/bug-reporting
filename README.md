@@ -18,11 +18,13 @@ If the issue has not been reported before, please open a new issue in the follow
 
 ##### Overview
 
-    What is the general error?
+    Describe the error in simple terms. 
 
 ##### Context 
 
-    When is this error seen?
+    Explain in as much detail as possible:
+        -where the error is seen
+        -how the error was potentially caused (mention previous steps taken to see the error)
 
 ##### Resources
 
