@@ -35,3 +35,7 @@ If the issue has not been reported before, please open a new issue in the follow
 Create new bug report issue here:
 
 https://github.com/Shardeum/shardeum-bug-reporting/issues/new
+
+### Bug Report Example
+
+https://github.com/Shardeum/shardeum-bug-reporting/issues/5
