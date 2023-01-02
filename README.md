@@ -38,4 +38,4 @@ https://github.com/Shardeum/shardeum-bug-reporting/issues/new
 
 ### Bug Report Example
 
-https://github.com/Shardeum/shardeum-bug-reporting/issues/5
+https://github.com/Shardeum/shardeum-bug-reporting/issues/12
