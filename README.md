@@ -24,7 +24,7 @@ If the issue has not been reported before, please open a new issue in the follow
 
     Describe if the bug is a visual warning or if it breaks functionality causing a system to fail.
 
-##### How to do reproduce the issue? 
+##### How to reproduce the issue? 
 
     Explain in as much detail as possible to help reproduce the bug:
         -where the error is seen
