@@ -16,17 +16,22 @@ If the issue has not been reported before, please open a new issue in the follow
 
 #### Format Bug Report:
 
-##### Overview
+##### What is the issue?
 
     Describe the error in simple terms. 
+    
+#### What impact does the issue have?
 
-##### Context 
+    Describe if the bug is a visual warning or if it breaks functionality causing a system to fail.
 
-    Explain in as much detail as possible:
+##### How to do reproduce the issue? 
+
+    Explain in as much detail as possible to help reproduce the bug:
         -where the error is seen
-        -how the error was potentially caused (mention previous steps taken to see the error)
+        -how the error was potentially caused if possible (mention previous steps taken to see the error if relevant)
+        -share code and explain how the code was run
 
-##### Resources
+##### What other resources can you share regarding this issue?
 
     Photos and links related to the error.
 
