@@ -19,9 +19,11 @@ assignees: ''
 
 :red_circle: 
 Explain in as much detail as possible to help reproduce the bug:
+```
     -where the error is seen
     -how the error was potentially caused if possible (mention previous steps taken to see the error if relevant)
     -share code and explain how the code was run
+```
 :red_circle: 
 
 ##### What other resources can you share regarding this issue?
